@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/andersonbosa/ewit-course-nodebr/issues"
   },
-  "homepage": "https://github.com/andersonbosa/ewit-course-nodebr#readme"
+  "homepage": "https://github.com/andersonbosa/ewit-course-nodebr#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
