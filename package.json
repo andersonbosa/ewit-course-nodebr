@@ -1,0 +1,24 @@
+{
+  "name": "ewit-course-nodebr",
+  "version": "1.0.0",
+  "description": "course by https://erickwendel.teachable.com/courses/448292/lectures/6939029",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonbosa/ewit-course-nodebr.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "erickwendel"
+  ],
+  "author": "andersonbosa <andersonbosa0@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersonbosa/ewit-course-nodebr/issues"
+  },
+  "homepage": "https://github.com/andersonbosa/ewit-course-nodebr#readme"
+}
