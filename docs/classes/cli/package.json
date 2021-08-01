@@ -1,0 +1,15 @@
+{
+  "name": "node-cli",
+  "version": "1.0.0",
+  "main": "database.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "mocha -w --reporter nyan"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "commander": "^2.18.0"
+  }
+}
